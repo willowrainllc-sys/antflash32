@@ -1,3 +1,8 @@
+---
+name: antflash-web-serial
+description: "The shared flashing core every chip skill rides on: manifest loading, chip-family guard, write, and boot verification."
+---
+
 # AntFlash Web Serial Protocol
 
 The shared flashing core. Every chip-family skill rides on this protocol;

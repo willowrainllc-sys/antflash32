@@ -1,3 +1,8 @@
+---
+name: antflash-first-flash
+description: "Install AntFlash 32 from GitHub, connect a board over Web Serial, and complete a first verified flash end to end."
+---
+
 # AntFlash First Flash
 
 The end-to-end workflow: install AntFlash 32 from GitHub and complete a

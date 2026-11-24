@@ -1,3 +1,8 @@
+---
+name: flash-esp32
+description: "Original ESP32 boards: download mode, manifest flashing, and boot verify with AntFlash 32."
+---
+
 # Flash ESP32 (Classic)
 
 Flashing the original ESP32 with AntFlash 32.

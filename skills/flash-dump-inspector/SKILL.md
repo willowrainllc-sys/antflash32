@@ -1,3 +1,8 @@
+---
+name: flash-dump-inspector
+description: "Read-only: read back a board's flash, compare it against a manifest, and report differences. Never writes."
+---
+
 # Flash Dump Inspector
 
 Read-only inspection of a board's flash against the package it is supposed

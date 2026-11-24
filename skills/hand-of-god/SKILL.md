@@ -1,3 +1,8 @@
+---
+name: hand-of-god
+description: "Unified control across every house ecosystem - web, mobile, tablet, desktop, and pods - riding the house mesh. Spec in flight."
+---
+
 # Hand of God
 
 **Status: spec in flight.** The full specification lives with the house

@@ -1,3 +1,8 @@
+---
+name: anthony-asi-pod
+description: "The ESP32-S3 pod build that carries the Anthony ASI gateway client. Binary not yet published; skill covers the target spec and seating checklist."
+---
+
 # Anthony ASI Pod
 
 The ESP32-S3 pod build that carries the Anthony ASI gateway client — a pod

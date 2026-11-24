@@ -1,3 +1,8 @@
+---
+name: flash-esp32s3
+description: "ESP32-S3 boards with native USB: direct Web Serial flashing, no bridge chip needed."
+---
+
 # Flash ESP32-S3
 
 Flashing ESP32-S3 boards with AntFlash 32.

@@ -1,3 +1,8 @@
+---
+name: flash-esp32c5
+description: "ESP32-C5 boards including the ANT_3SP pod target: dual-band parts, guarded flash packet only."
+---
+
 # Flash ESP32-C5
 
 Flashing ESP32-C5 boards with AntFlash 32 — including the ANT_3SP pod

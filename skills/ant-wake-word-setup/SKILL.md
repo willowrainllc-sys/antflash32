@@ -1,3 +1,8 @@
+---
+name: ant-wake-word-setup
+description: "Build the house wake-word detector from this repo checkout, verify it locally on your own machine, and only then opt in to microphone use."
+---
+
 # Ant Wake Word Setup
 
 Build the house wake-word detector from this repo checkout, verify it on your

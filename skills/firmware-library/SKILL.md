@@ -1,3 +1,8 @@
+---
+name: firmware-library
+description: "The house firmware catalog: 79 manifests across house, bus-tool, and open-source collections, each with license and live/stub status."
+---
+
 # Firmware Library
 
 The house firmware catalog — what the flasher can serve, where each package

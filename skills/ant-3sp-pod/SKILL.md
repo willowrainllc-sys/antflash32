@@ -1,3 +1,8 @@
+---
+name: ant-3sp-pod
+description: "The third-controller pod: an ESP32-C5 node that senses, bridges, and relays for the house brains; executes only brain-validated tasks."
+---
+
 # ANT_3SP Pod
 
 The third-controller pod: an ESP32-C5 node that senses, bridges, and relays

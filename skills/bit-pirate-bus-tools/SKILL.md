@@ -1,3 +1,8 @@
+---
+name: bit-pirate-bus-tools
+description: "UART, SPI, I2C, and 1-Wire bus work on your own bench hardware, from the house tool catalog; attack-class modes are excluded by house rule."
+---
+
 # Bit Pirate Bus Tools
 
 Bench bus work on your own hardware, drawn from the house tool catalog of

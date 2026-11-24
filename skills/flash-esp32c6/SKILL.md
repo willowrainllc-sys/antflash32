@@ -1,3 +1,8 @@
+---
+name: flash-esp32c6
+description: "ESP32-C6 boards: Web Serial flashing and the bus-expander package set with AntFlash 32."
+---
+
 # Flash ESP32-C6
 
 Flashing ESP32-C6 boards with AntFlash 32.
