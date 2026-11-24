@@ -1,0 +1,15 @@
+# Device secrets seat on the build machine only — never in this repo.
+device_config.h
+*.key
+*.pem
+.env
+.env.*
+
+# Flash dumps can contain credentials — never commit one.
+*.dump
+dumps/
+
+# Local build output
+build/
+dist/
+.DS_Store
